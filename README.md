@@ -17,7 +17,7 @@ This notebook is part of the **Logistic Regression Projects** series by **Shaury
 ---
 # 2. Titanic Survival Prediction with Logistic Regression
 
-This Jupyter notebook tackles the classic **Titanic dataset** from Kaggle to predict passenger survival using **Logistic Regression**.
+This Jupyter notebook tackles the classic **Titanic dataset** from Kaggle to predict passenger survival using **Logistic Regression(uses titanic.csv)**.
 
 ## 📁 Project Overview
 - **Data Exploration:** Analyzing missing data, understanding the dataset, and examining relationships between features.
